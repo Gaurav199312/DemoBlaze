@@ -22,7 +22,6 @@
           <configuration>
 			<suiteXmlFiles>
 		        <suiteXmlFile>integrated_extreports_testng.xml</suiteXmlFile>
-		        <suiteXmlFile>datadriven.xml</suiteXmlFile>
 		    </suiteXmlFiles>
             <!-- put your configurations here -->
           </configuration>
